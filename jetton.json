@@ -1,0 +1,8 @@
+{
+  "name": "GoldHash",
+  "symbol": "GHS",
+  "description": "GoldHash is a next-generation mining token built on the TON blockchain, combining the power of blockchain technology with community-driven reward systems. The name GoldHash reflects two core elements of our vision: Gold — Symbolizing value, scarcity, and trust. Like gold in the physical world, GoldHash is designed to be a valuable digital asset with a sustainable ecosystem. Hash — Honoring the Proof-of-Work principles that form the foundation of the crypto industry. Hash is the core of mining, and GoldHash delivers an innovative and transparent mining experience.",
+  "image": "https://raw.githubusercontent.com/Bangpeegee/Aset-HashGold/main/GoldHash.png",
+  "decimals": "9"
+  "supply" : "16.000.000.000"
+}
